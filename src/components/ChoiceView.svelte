@@ -71,4 +71,8 @@
     [type='radio']:checked + span {
         border: 3px solid var(--quizdown-color-primary);
     }
+    fieldset label span {
+        white-space: break-spaces;
+        line-height: 1.5em;
+    }
 </style>
