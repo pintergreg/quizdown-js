@@ -5,7 +5,7 @@
 <style>
     .container {
         padding: 2px 16px;
-        display: grid;
+        display: block;
         align-items: start;
         overflow: hidden;
     }
